@@ -1,3 +1,5 @@
+// printf() 양식 변환기호의 사용
+
 #include <stdio.h>
 void main() {
     printf("%%d : %d\n", 2147483647);

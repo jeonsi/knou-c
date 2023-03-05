@@ -1,3 +1,5 @@
+// putchar()
+
 #include <stdio.h>
 void main() {
     char var = 'A';

@@ -1,4 +1,4 @@
-// Created on iPad.
+// printf() 출력 양식의 편집
 
 #include <stdio.h>
 

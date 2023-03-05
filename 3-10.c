@@ -1,3 +1,5 @@
+// ++, -- 연산자의 사용
+
 #include <stdio.h>
 void main() {
     int a, b, c;

@@ -1,3 +1,5 @@
+// 산술 연산자의 사용
+
 #include <stdio.h>
 void main() {
     int x, y;

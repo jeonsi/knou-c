@@ -1,4 +1,4 @@
-// Created on iPad.
+// scanf()
 
 #include <stdio.h>
 #pragma warning(disable:4996)

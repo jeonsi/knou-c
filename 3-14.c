@@ -1,6 +1,5 @@
-//
-// Created by 전승일 on 2023/02/06.
-//
+// 조건 연산자의 사용
+
 #include <stdio.h>
 int main() {
     int a = 10, b;

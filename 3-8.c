@@ -1,6 +1,5 @@
-//
-// Created by 전승일 on 2023/02/06.
-//
+// puts()
+
 #include <stdio.h>
 int main() {
     char s1[] = "Computer";
