@@ -1,4 +1,6 @@
+// 의도하지 않은 무한 루프
 #include <stdio.h>
+
 int main() {
     float x = 0.0;
     float sum = 0.0;

@@ -1,3 +1,4 @@
+// 표준함수의 사용 예2
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>

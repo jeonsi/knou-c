@@ -1,6 +1,5 @@
-//
-// Created by 전승일 on 2023/02/06.
-//
+// if ~ else문의 사용
+
 #include <stdio.h>
 #pragma warning(disable:4996)
 int main() {

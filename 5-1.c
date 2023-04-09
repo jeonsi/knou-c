@@ -1,6 +1,7 @@
+// 표준함수의 사용 예1
 #include <stdio.h>
 #include <math.h>
-#include <stdlib.h>
+// #include <stdlib.h>
 int main() {
     double x = 12.34;
     int i = -5, j = 2;

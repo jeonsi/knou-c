@@ -1,4 +1,6 @@
+// 의도하지 않은 무한 루프
 #include <stdio.h>
+
 int main() {
     unsigned long int f;
     int n = 0;

@@ -1,3 +1,5 @@
+// for 문의 사용
+
 #include <stdio.h>
 int main() {
     int i, sum = 0;
