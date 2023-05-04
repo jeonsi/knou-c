@@ -1,3 +1,4 @@
+// 구조체 포인터를 함수의 매개변수로 사용
 #include <stdio.h>
 
 struct num calc(struct num *);

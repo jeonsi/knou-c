@@ -1,3 +1,4 @@
+// 구조체 멤버 참조의 사용
 #include <stdio.h>
 
 struct person {

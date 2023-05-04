@@ -1,3 +1,4 @@
+// typedef 사용
 #include <stdio.h>
 #include <string.h>
 

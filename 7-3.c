@@ -1,3 +1,4 @@
+// 구조체 배열의 사용
 #include <stdio.h>
 
 int main() {

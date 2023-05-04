@@ -1,3 +1,4 @@
+// 구조체 포인터의 사용
 #include <stdio.h>
 
 struct student {

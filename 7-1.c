@@ -1,11 +1,12 @@
+// 구조체 멤버 참조의 사용
 #include <stdio.h>
 #include <string.h>
 #pragma warning(disable:4996)
 
-struct person {
-    char name[10];
-    int age;
-    char sex;
+struct person {     // int is the largest size (4), every member occupies 4 times x length
+    char name[10];  // 4 * 3 = 12
+    int age;        // 4
+    char sex;       // 4 * 1 = 4
 };
 
 int main() {

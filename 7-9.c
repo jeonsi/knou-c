@@ -1,3 +1,4 @@
+// 공용체 사용
 #include <stdio.h>
 #pragma warning(disable:4996)
 
