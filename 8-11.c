@@ -9,7 +9,7 @@ int main() {
     fclose(fp);
     fp = fopen("sample6.txt", "rt");
     fseek(fp, 7, SEEK_SET);
-    fgets(str, 4, fp);      // 4 = 3 characters read plus \n
+    fgets(str, 4, fp);      // 4 = 3 characters read plus \0
     printf("7번째부터 3글자 출력: %s\n", str);
     fseek(fp, -2, SEEK_CUR);
     fgets(str, 3, fp);
