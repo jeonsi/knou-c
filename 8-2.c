@@ -12,6 +12,6 @@ int main() {
     }
     printf("문자열을 입력하시오. 입력을 끝내려면 Ctrl + d를 누르시오.\n");
     while((c = getchar()) != EOF)
-        fputc(c, fp);
+        putc(c, fp);
     fclose(fp);
 }
