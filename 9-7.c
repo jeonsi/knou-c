@@ -1,3 +1,5 @@
+// 메모리 공간 초기화
+
 #include <stdio.h>
 #include <string.h>
 
